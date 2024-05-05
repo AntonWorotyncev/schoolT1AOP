@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.solution.timetracker.service.impl.TimeTrackerServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-05-05T22:14:50" hostname="demon-IdeaPad-Gaming-3-15IMH05" time="0.367">
+  <properties/>
+  <testcase name="testGetExecutionTimeStats()" classname="com.solution.timetracker.service.impl.TimeTrackerServiceTest" time="0.358"/>
+  <testcase name="testSaveExecutionTime()" classname="com.solution.timetracker.service.impl.TimeTrackerServiceTest" time="0.008"/>
+  <system-out><![CDATA[01:14:50.587 [ForkJoinPool.commonPool-worker-1] INFO com.solution.timetracker.service.impl.TimeTrackerServiceImpl - Метод someMethod с параметрами [arg1, 123, true] был успешно сохранен в базу данных
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

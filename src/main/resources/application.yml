@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: openschoolt1
+  datasource:
+    url: jdbc:postgresql://localhost:6666/timeTrackingDb
+    username: user
+    password: 4321
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+
+

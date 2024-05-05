@@ -1,0 +1,1 @@
+�01:14:50.587 [ForkJoinPool.commonPool-worker-1] INFO com.solution.timetracker.service.impl.TimeTrackerServiceImpl - Метод someMethod с параметрами [arg1, 123, true] был успешно сохранен в базу данных
